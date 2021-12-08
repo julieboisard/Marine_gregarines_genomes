@@ -11,7 +11,9 @@ The sequence data are available from the BioProject PRJNA734792 (NCBI, SRA).
 
 1. the assembly
 2. identification of “apicomplexa” vs. contamination contigs
-3. identification of genomes A and B among “apicomplexa” contigs 
+3. identification of genomes A and B among “apicomplexa” contigs
+4. phylogenetic analyses
+5. additional data
 
 
 
