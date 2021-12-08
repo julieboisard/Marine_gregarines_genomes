@@ -1,6 +1,6 @@
 # Data
 
-## List of NCBI Ids corresponding to our own preditec genes IDs
+## List of NCBI Ids corresponding to our own predicted genes IDs
 
 * genes Pg A NCBI
 
