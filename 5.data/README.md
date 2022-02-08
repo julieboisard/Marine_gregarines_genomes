@@ -17,3 +17,7 @@
 ## BLAST for glideosome datamining
 
 * blastp vs gregarines transcriptomes using *T. gondii* and *P. falciparum* seeds
+
+## Ribosomal
+
+* Pg A and B ribosomal loci - in silico clustering
