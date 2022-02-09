@@ -20,4 +20,4 @@
 
 ## Ribosomal
 
-* Pg A and B ribosomal loci - in silico clustering
+* Pg A and B ribosomal loci - in silico clustering and experimental validation
