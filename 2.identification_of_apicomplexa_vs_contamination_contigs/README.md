@@ -7,7 +7,7 @@ Ward criterion.
 
 
 1. k-mers were counted with the Python script: 
-`get_kmers_occurences_memory_optimization_freq.py`  (-k 5)
+`get_kmers_occurences_memory_optimization_freq.py`  (-k 5 -f)
 
 2. k-mers including non-ATGC characters were removed with the following 
 Shell script:
